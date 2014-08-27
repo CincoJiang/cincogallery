@@ -1,12 +1,3 @@
-////////////////////////////////////////////////////////////
-// ==== HTML5 CANVAS transform Image ====
-// full 3D version
-// @author Gerard Ferrandez / http://www.dhteumeuleu.com/
-// last update: Dec 8, 2012
-// Released under the MIT license
-// http://www.dhteumeuleu.com/LICENSE.html
-////////////////////////////////////////////////////////////
-
 "use strict";
 
 var ge1doot = ge1doot || {};
